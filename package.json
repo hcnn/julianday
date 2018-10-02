@@ -1,0 +1,9 @@
+{
+  "name": "julianday",
+  "version": "0.1.0",
+  "repo": "hcnn/julianday",
+  "description": "Julian Day Number",
+  "keywords": ["julian day", "julian date", "julian calendar"],
+  "license": "MIT",
+  "src": ["julianday.c", "julianday.h"]
+}
